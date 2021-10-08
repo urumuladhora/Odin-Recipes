@@ -1,0 +1,21 @@
+.Title {
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+    color: brown;
+    background-color: orange;
+}
+
+.Cover {
+    width: fit-content;
+    height: 400px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.list {
+    text-align: center;
+    background-color: lightcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
